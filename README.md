@@ -8,14 +8,7 @@
 
 ### Project 3 :- Calculator
 
-### Project 4 :- Image Gallery
+### Project 4:- keyCode
 
-### Project 5 :- Show and hide Passwrd Input
+### Project 5:- Slider To change Back-Ground Color
 
-### Project 6 :- keyCode
-
-### Project 7 :- Quiz App
-
-### Project 8:- Online Drumkit player
-
-### Project 9:- ToDoList
