@@ -30,10 +30,23 @@ arr.forEach(button =>{
         }else{
             string += e.target.innerHTML;
             input.value = string;
-        }
-
-       
+        }   
     })
 
+    // button.addEventListener('keydown',(e)=>{
+    //     if(e.key === '='){
+    //         string = eval(string);
+    //         input.value = string;
+    //     }else if(e.key === 'Enter'){
+    //         string = eval(string.substring(0 , string.length - 1));
+    //         input.value = string
+    //     }else{
+    //         string += e.key.innerHTML;
+    //         input.value = string;
+    //     }
+    // })
+
 })
+
+
 
