@@ -53,8 +53,8 @@ div{
 
 .range::-webkit-slider-thumb{
     appearance: none;
-    width: 45px;
-    height: 45px;
+    width: 41px;
+    height: 41px;
     cursor: pointer;
     border-radius: 50%;
     border: 5px solid #fff;
